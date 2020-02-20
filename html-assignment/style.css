@@ -3,35 +3,70 @@
 h1 {
 	text-align: center;
 	font-size: 45pt;
-	color:pink;
+	color:yellow;
+}
+h2{
+	
+	color:#eff5c1;
+	font-size: 26pt;
+}
+h3{
+
+	color:#eff5c1;
+	font-size: 20pt;
+}
+hr{
+	padding-left: 200px;
+	padding-right: 400px;
 }
 
 p{
-	color:hotpink;
-	padding-left: 200px;
-	padding-right: 200px;
+	color:#eff5c1;
+	
+	
+	font-size: 14pt;
 }
-table{
-	text-align: center;
+ul{
 
+	padding-left: 80;
+	font-size: 14;
+	list-style-type: square;
+	color: #eff5c1;
+}
+body{
+	padding-left: 250px;
+	padding-right: 250px;
+	background-color: green;
+}
+table, th, td {
+  border: 1px solid #b2edb3;
+  color: #eff5c1;
+  width: 800px;
+  text-align: center;
+  vertical-align: center;
 }
 button{
-	background-color: pink;
-	border: 2px solid hotpink;
+	background-color: #b2edb3;
+	border: 2px solid #eff5c1;
 	color: black;
+	width: 100px;
 	padding: 10px 15px;
 	text-align: center;
 	font-size: 16px;
 	cursor: pointer;
+	border-radius: 8px;
 
 }
 th{
-	font-size: 20pt;
+	font-size: 18pt;
+}
+img{
+	width: 200px;
 }
 a{
 	cursor: pointer;
 	font-size: 16px;
 	padding-right: 10px;
-	color: black;
+	color: yellow;
 	
 }
